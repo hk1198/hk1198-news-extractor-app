@@ -1,0 +1,6 @@
+streamlit
+newspaper3k
+beautifulsoup4
+requests
+lxml
+googlesearch-python
